@@ -1,0 +1,4 @@
+/vimfiles/bundle
+/vimfiles/swp/*
+.netrwhist
+.DS_Store
